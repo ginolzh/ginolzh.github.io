@@ -8,35 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the repository for Zhenhao Li's website.
+I'm currently a Ph.D student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) and [Dr. Weiyi (Ian) Shang](https://users.encs.concordia.ca/~shang/) at [Concordia University](https://www.concordia.ca/), Montreal, Canada. My research interests include software log analysis, improving logging practices, program analysis, and mining software repositories.
 
 Education
 ======
-* 
 * Ph.D in Computer Science, Concordia University
 * M.A.Sc. in Software Engineering, Concordia University, 2019
 * B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -44,18 +24,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+* Co-review for ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, and SANER 2019.
+* Shadow PC for MSR 2021
