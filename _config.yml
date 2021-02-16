@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "&nbsp&nbsp&nbsp&nbsp&nbsp Zhenhao Li"
   avatar           : "profile.png"
-  #bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at Concordia University."
   location         : "Montreal, Canada"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
