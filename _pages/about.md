@@ -16,18 +16,25 @@ Education
 * M.A.Sc. in Software Engineering, Concordia University, 2019
 * B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
 
-  
-
+ 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
+* Conference Papers
+  * [C3]**Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang. DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks. The 43rd International Conference on Software Engineering (**ICSE 2021**).
+
+* Journal Papers
+  * [J1]**Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang. Studying Duplicate Logging Statements and Their Relationships with Code Clones. IEEE Transactions on Software Engineering (**TSE**).
+
+* Short Papers
+  * [S3]**Zhenhao Li**. Studying and Suggesting Logging Locations in Code Blocks. The 42nd International Conference on Software Engineering (**ICSE 2020**).
+
 
   
-Academic Services
+Services
 ======
-* Co-review for ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, and SANER 2019.
-* Shadow PC for MSR 2021
+* Academic Services
+  * Co-review for ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, and SANER 2019.
+  * Co-review for EMSE and JSS.
+  * Shadow PC for MSR 2021
+* Voluteering
+  * Student Volunteer for ICSE 2020
