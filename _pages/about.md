@@ -12,7 +12,7 @@ I'm currently a Ph.D student supervised by [Dr. Tse-Hsun (Peter) Chen](https://p
 
 Education
 ======
-* Ph.D in Computer Science, Concordia University
+* Ph.D. in Computer Science, Concordia University
 * M.A.Sc. in Software Engineering, Concordia University, 2019
 * B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
 
