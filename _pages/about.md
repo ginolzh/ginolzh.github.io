@@ -22,7 +22,7 @@ Education
 Publications
 ======
 * Conference Papers
-  * [C3] **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\ 
+  * [C3] **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
   The 43rd International Conference on Software Engineering (**ICSE 2021**).
   * [C2] **Zhenhao Li**, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
