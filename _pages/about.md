@@ -22,30 +22,30 @@ Education
 Publications
 ======
 * Conference Papers
-  * [C3] **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
-  DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
+  * [C3] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
+  **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 43rd International Conference on Software Engineering (**ICSE 2021**).
-  * [C2] **Zhenhao Li**, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
-  Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.\
+  * [C2] Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.\
+  **Zhenhao Li**, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2020**).
-  * [C1] **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
-  DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.\
+  * [C1] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.\
+  **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
   The 41st International Conference on Software Engineering (**ICSE 2019**).
 
 * Journal Papers
-  * [J1] **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
-  Studying Duplicate Logging Statements and Their Relationships with Code Clones.\
+  * [J1] Studying Duplicate Logging Statements and Their Relationships with Code Clones.\
+  **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
   IEEE Transactions on Software Engineering (**TSE**).
 
 * Short Papers
-  * [S3] **Zhenhao Li**.\
-  Towards Providing Automated Supports to Developers on Writing Logging Statements.\
+  * [S3] Towards Providing Automated Supports to Developers on Writing Logging Statements.\
+  **Zhenhao Li**.\
   The 42nd International Conference on Software Engineering: Companion Proceedings (**ICSE-DS 2020**).
-  * [S2] **Zhenhao Li**.\
-  Studying and Suggesting Logging Locations in Code Blocks.\
+  * [S2] Studying and Suggesting Logging Locations in Code Blocks.\
+  **Zhenhao Li**.\
   The 42nd International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC 2020**).
-  * [S1] **Zhenhao Li**.\
-  Characterizing and Detecting Duplicate Logging Code Smells.\
+  * [S1] Characterizing and Detecting Duplicate Logging Code Smells.\
+  **Zhenhao Li**.\
   The 41st International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC 2019**).
 
   
