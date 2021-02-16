@@ -2,10 +2,10 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-    <br />
-    <br />
-    <br />
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    <br />
+    <br />
+    <br />
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
