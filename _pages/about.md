@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I'm currently a Ph.D student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) and [Dr. Weiyi (Ian) Shang](https://users.encs.concordia.ca/~shang/) at [Concordia University](https://www.concordia.ca/), Montreal, Canada. My research interests include software log analysis, improving logging practices, program analysis, and mining software repositories.
+I'm currently a Ph.D. student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) and [Dr. Weiyi (Ian) Shang](https://users.encs.concordia.ca/~shang/) at [Concordia University](https://www.concordia.ca/), Montreal, Canada. My research interests include software log analysis, improving logging practices, program analysis, and mining software repositories.
 
 Education
 ======
