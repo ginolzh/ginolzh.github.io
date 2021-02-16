@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenhao Li's website"
+title                    : "Zhenhao Li's Homepage"
 title_separator          : "-"
 name                     : &name "Zhenhao Li"
 description              : &description "PhD student at Concordia University"
