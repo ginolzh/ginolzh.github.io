@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhenhao Li's website"
 title_separator          : "-"
-name                     : &name "    Zhenhao Li"
+name                     : &name "&nbsp &nbsp &nbsp Zhenhao Li"
 description              : &description "PhD student at Concordia University"
 url                      : https://ginolzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
