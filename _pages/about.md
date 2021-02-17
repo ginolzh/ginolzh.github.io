@@ -24,13 +24,16 @@ Publications
 * Conference Papers
   * [C3] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
-  The 43rd International Conference on Software Engineering (**ICSE 2021**).
+  The 43rd International Conference on Software Engineering (**ICSE 2021**).\
+  [PDF](https://ginolzh.github.io/papers/ICSE2021_Log_Level.pdf)
   * [C2] Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
-  The 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2020**).
+  The 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2020**).\
+  [PDF](https://ginolzh.github.io/papers/ASE2020_Where_to_Log.pdf)
   * [C1] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
-  The 41st International Conference on Software Engineering (**ICSE 2019**).
+  The 41st International Conference on Software Engineering (**ICSE 2019**).\
+  [PDF](https://ginolzh.github.io/papers/ICSE2019_Dup_Log.pdf)
 
 * Journal Papers
   * [J1] Studying Duplicate Logging Statements and Their Relationships with Code Clones.\
