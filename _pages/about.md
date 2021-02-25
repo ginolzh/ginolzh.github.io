@@ -16,7 +16,8 @@ Education
 ======
 * Ph.D. in Computer Science, Concordia University
 * M.A.Sc. in Software Engineering, Concordia University, 2019
-* B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
+* B.Eng. in Software Engineering, Harbin Institute of Technology, 2017\
+  *(Exchange Program at [POSTECH](http://www.postech.ac.kr/eng/), 2015)*
 
  
 Publications
