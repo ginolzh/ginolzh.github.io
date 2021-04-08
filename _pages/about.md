@@ -69,4 +69,11 @@ Services
   * SOEN 7481: Software Verification and Testing (2020, 2019)
   
 
+Other Information
+======
+* Languages
+  * Mandarin
+  * English
+  * Korean
+
 
