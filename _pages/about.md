@@ -71,7 +71,7 @@ Services
 
 Other Information
 ======
-* Languages
+* Languages Skills
   * Mandarin
   * English
   * Korean
