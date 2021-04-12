@@ -54,8 +54,10 @@ Publications
   The 41st International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC 2019**).
 
   
-Services
+Experience
 ======
+* Industrial Experience
+  * Internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 * Academic Services
   * Co-review for ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, and SANER 2019.
   * Co-review for EMSE and JSS.
