@@ -20,7 +20,7 @@ Education
   *(Exchange Program at [POSTECH](http://www.postech.ac.kr/eng/), 2015)*
 
  
-Publications
+Selected Publications
 ======
 * Conference Papers
   * [C3] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
@@ -42,16 +42,8 @@ Publications
   IEEE Transactions on Software Engineering (**TSE**).\
   [PDF](https://users.encs.concordia.ca/~l_zhenha/papers/TSE_Duplicate_Log.pdf)
 
-* Short Papers
-  * [S3] Towards Providing Automated Supports to Developers on Writing Logging Statements.\
-  **Zhenhao Li**.\
-  The 42nd International Conference on Software Engineering: Companion Proceedings (**ICSE-DS 2020**).
-  * [S2] Studying and Suggesting Logging Locations in Code Blocks.\
-  **Zhenhao Li**.\
-  The 42nd International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC 2020**).
-  * [S1] Characterizing and Detecting Duplicate Logging Code Smells.\
-  **Zhenhao Li**.\
-  The 41st International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC 2019**).
+
+[Full List](https://ginolzh.github.io/publications/)
 
   
 Experience

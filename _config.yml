@@ -87,7 +87,7 @@ author:
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=StfHC9AAAAAJ&hl=en&oi=ao"
-  email            : "l_zhenha AT encs DOT concordia DOT ca"
+  email            : "l_zhenha[AT]encs.concordia.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ginolzh"
+  #github           : "ginolzh"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhenhaogino"
+  #twitter          : "zhenhaogino"
   vine             :
   weibo            :
   xing             :
