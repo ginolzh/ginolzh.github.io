@@ -52,7 +52,7 @@ Experience
   * Internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 * Academic Services
   * Co-reviewer for ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, and SANER 2019.
-  * Co-reviewer for EMSE and JSS.
+  * Co-reviewer for TSE, EMSE, and JSS.
   * [Shadow PC](https://2021.msrconf.org/track/msr-2021-shadow-pc?#About) for MSR 2021
 * Voluteering
   * Student Volunteer for ICSE 2020
