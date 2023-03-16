@@ -25,7 +25,7 @@ Selected Publications
   * [C4] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.\
   **Zhenhao Li**, Chuan Luo, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin, and Dongmei Zhang.\
   The 45th International Conference on Software Engineering (**ICSE 2023**).\
-  [PDF](https://github.com/ginolzh/ginolzh.github.io/raw/master/papers/ICSE2023_Log_Var_Aware_.pdf)
+  [PDF](https://github.com/ginolzh/ginolzh.github.io/raw/main/papers/ICSE2023_Log_Var_Aware_.pdf)
   * [C3] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 43rd International Conference on Software Engineering (**ICSE 2021**).\
