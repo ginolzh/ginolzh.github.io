@@ -53,7 +53,8 @@ Experience
 ======
 * Academic Services
   * Journal Reviewer: Information and Software Technology (IST)
-  * [Shadow Program Committee](https://2021.msrconf.org/track/msr-2021-shadow-pc?#About): MSR 2021
+  * Artifact Evaluation: ISSTA 2023
+  * Shadow Program Committee: MSR 2021
   * Journal Co-reviewer: TSE, TOSEM, EMSE, JSS
   * Conference Co-reviewer: ASE 2022, ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, SANER 2019, ICSME 2018
 * Internship Experience
