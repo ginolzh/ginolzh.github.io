@@ -75,6 +75,7 @@ Honors and Awards
 * Excellent Certificate of Stars of Tomorrow Internship Program, Microsoft Research Asia (MSRA)
 * Leonard F. Ruggins Engineering PhD Scholarships, Concordia University
 * Centre for Machine Intelligence Graduate Scholarship, Concordia University
+* ACM SIGSOFT CAPS Award, ACM SIGSOFT
 * Concordia International Tuition Award of Excellence, Concordia University
 * Concordia University Conference and Exposition Award, Concordia University
 * Concordia Merit Scholarship, Concordia University
