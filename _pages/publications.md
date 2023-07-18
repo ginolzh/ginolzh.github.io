@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Conference Papers _(*: corresponding authors)_
+
+* Conference Papers 
   * [C5] Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.\
   **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).
@@ -42,3 +43,5 @@ author_profile: true
   * [S1] Characterizing and Detecting Duplicate Logging Code Smells.\
   **Zhenhao Li**.\
   The 41st International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC 2019**).
+
+_(*: corresponding authors)_
