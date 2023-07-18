@@ -21,7 +21,7 @@ Education
  
 Selected Publications
 ======
-* Conference Papers _(*: corresponding authors)_
+* Conference Papers 
   * [C5] Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.\
   **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).
@@ -51,6 +51,7 @@ Selected Publications
 
 [Full List](https://ginolzh.github.io/publications/)
 
+_(*: corresponding authors)_
   
 Experience
 ======
