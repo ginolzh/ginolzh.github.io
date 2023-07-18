@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Conference Papers
+* Conference Papers _(*: corresponding authors)_
   * [C5] Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.\
   **Zhenhao Li**, An Ran Chen, Xing Hu*, Xin Xia, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).
   * [C4] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.\
-  **Zhenhao Li**, Chuan Luo, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin, and Dongmei Zhang.\
+  **Zhenhao Li**, Chuan Luo*, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin*, and Dongmei Zhang.\
   The 45th International Conference on Software Engineering (**ICSE 2023**).
   * [C3] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
