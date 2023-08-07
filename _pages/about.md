@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I completed my Ph.D. study at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://users.encs.concordia.ca/~shang/) (_University of Waterloo_). My research interests include mining software repositories, AI for SE, and empirical software engineering. 
+I completed my Ph.D. study at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research interests include mining software repositories, AI for SE, and empirical software engineering. 
 
 Education
 ======
