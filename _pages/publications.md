@@ -30,7 +30,7 @@ author_profile: true
 * Journal Papers
   * [J1] Studying Duplicate Logging Statements and Their Relationships with Code Clones.\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
-  IEEE Transactions on Software Engineering (**TSE 2021**).\
+  IEEE Transactions on Software Engineering (**TSE 2022**).\
   [PDF](https://users.encs.concordia.ca/~l_zhenha/papers/TSE_Duplicate_Log.pdf)
 
 * Short Papers
