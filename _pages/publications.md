@@ -9,7 +9,8 @@ author_profile: true
 * Conference Papers 
   * [C5] Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.\
   **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
-  The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).
+  The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).\
+  [PDF](https://github.com/ginolzh/ginolzh.github.io/blob/main/papers/ASE2023_Log_Message_Readability.pdf)
   * [C4] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.\
   **Zhenhao Li**, Chuan Luo\*, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin\*, and Dongmei Zhang.\
   The 45th International Conference on Software Engineering (**ICSE 2023**).\
@@ -17,21 +18,21 @@ author_profile: true
   * [C3] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 43rd International Conference on Software Engineering (**ICSE 2021**).\
-  [PDF](https://users.encs.concordia.ca/~l_zhenha/papers/ICSE2021_Log_Level.pdf)
+  [PDF](https://github.com/ginolzh/ginolzh.github.io/blob/main/papers/ICSE2021_Log_Level.pdf)
   * [C2] Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, and Weiyi Shang.\
   The 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2020**).\
-  [PDF](https://users.encs.concordia.ca/~l_zhenha/papers/ASE2020_Where_to_Log.pdf)
+  [PDF](https://github.com/ginolzh/ginolzh.github.io/blob/main/papers/ASE2020_Where_to_Log.pdf)
   * [C1] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
   The 41st International Conference on Software Engineering (**ICSE 2019**).\
-  [PDF](https://users.encs.concordia.ca/~l_zhenha/papers/ICSE2019_Dup_Log.pdf)
+  [PDF](https://github.com/ginolzh/ginolzh.github.io/blob/main/papers/ICSE2019_Dup_Log.pdf)
 
 * Journal Papers
   * [J1] Studying Duplicate Logging Statements and Their Relationships with Code Clones.\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, and Weiyi Shang.\
-  IEEE Transactions on Software Engineering (**TSE 2022**).\
-  [PDF](https://users.encs.concordia.ca/~l_zhenha/papers/TSE_Duplicate_Log.pdf)
+  IEEE Transactions on Software Engineering, published in 2022 (**TSE 2022**).\
+  [PDF](https://github.com/ginolzh/ginolzh.github.io/blob/main/papers/TSE_Duplicate_Log.pdf)
 
 * Short Papers
   * [S3] Towards Providing Automated Supports to Developers on Writing Logging Statements.\
