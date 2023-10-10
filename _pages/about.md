@@ -24,7 +24,7 @@ Selected Publications
 * Conference Papers
   * [C6] Code Search is All You Need? Improving Code Suggestions with Code Search.\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
-  The 46th International Conference on Software Engineering (**ICSE 2024**).\
+  The 46th International Conference on Software Engineering (**ICSE 2024**).
   * [C5] Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.\
   **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).\
