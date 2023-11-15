@@ -14,7 +14,7 @@ I completed my Ph.D. study at [_Concordia University_](https://www.concordia.ca/
 
 Education
 ======
-* Ph.D. in Computer Science, Concordia University, thesis defended in 2022
+* Ph.D. in Computer Science, Concordia University, 2022
 * M.A.Sc. in Software Engineering, Concordia University, 2019
 * B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
 
@@ -57,13 +57,14 @@ Selected Publications
 
 _(*: corresponding authors)_
   
-Experience
+Services and Experience
 ======
-* Academic Services
-  * Journal Reviewer: Information and Software Technology (IST)
+* Journal Reviewer
+  * Transactions on Software Engineering and Methodology (TOSEM)
+  * Information and Software Technology (IST)
+* Conference Program Committee
   * Artifact Evaluation: ISSTA 2023
   * Shadow Program Committee: MSR 2021
-  * Journal Co-reviewer: TSE, TOSEM, EMSE, JSS
   * Conference Co-reviewer: ASE 2023, ASE 2022, ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, SANER 2019, ICSME 2018
 * Internship Experience
   * Huawei: Software Engineering Application Technology Lab
