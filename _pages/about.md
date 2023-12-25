@@ -63,8 +63,9 @@ Services and Experience
   * Transactions on Software Engineering and Methodology (TOSEM)
   * Information and Software Technology (IST)
 * Conference Program Committee
-  * Artifact Evaluation: ISSTA 2023
-  * Shadow Program Committee: MSR 2021
+  * Program Committee: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers) 
+  * Artifact Evaluation: [ISSTA 2023](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation)
+  * Shadow Program Committee: [MSR 2021](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee)
   * Conference Co-reviewer: ASE 2023, ASE 2022, ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, SANER 2019, ICSME 2018
 * Internship Experience
   * Huawei: Software Engineering Application Technology Lab
