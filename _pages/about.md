@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-
+<span class='anchor' id='about-me'></span>
 About Me
 ======
 I completed my Ph.D. at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research interests include AI4SE & SE4AI, mining software repositories, and empirical software engineering. 
@@ -20,7 +20,7 @@ Education
 * M.A.Sc. in Software Engineering, Concordia University, 2019
 * B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
 
- 
+<span class='anchor' id='publications'></span>
 Selected Publications
 ======
 * Conference Papers
@@ -56,10 +56,11 @@ Selected Publications
   [PDF](https://ginolzh.github.io/papers/TSE_Duplicate_Log.pdf)
 
 
-[Full List](https://ginolzh.github.io/publications/)
+[Full List (Google Scholar)](https://scholar.google.com/citations?hl=zh-CN&user=StfHC9AAAAAJ)
 
 _(*: corresponding authors)_
-  
+
+<span class='anchor' id='services'></span>
 Services and Experience
 ======
 * Journal Reviewer
