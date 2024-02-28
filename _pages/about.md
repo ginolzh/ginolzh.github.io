@@ -25,7 +25,7 @@ Education
 
 Selected Publications
 ======
-* Conference Papers
+* **Conference Papers**
   * **[C6]** *Code Search is All You Need? Improving Code Suggestions with Code Search.*\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
@@ -52,7 +52,7 @@ Selected Publications
   The 41st International Conference on Software Engineering (**ICSE 2019**).\
   [PDF](https://ginolzh.github.io/papers/ICSE2019_Dup_Log.pdf)
 
-* Journal Papers
+* **Journal Papers**
   * **[J1]** *Studying Duplicate Logging Statements and Their Relationships with Code Clones.*\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
   IEEE Transactions on Software Engineering, published in 2022 (**TSE 2022**).\
@@ -101,7 +101,7 @@ Honors and Awards
 
 Other Information
 ======
-* Languages Skills
+* **Languages Skills**
   * English
   * Chinese (Mandarin)
   * Korean
