@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-I completed my Ph.D. at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research interests include AI4SE & SE4AI, mining software repositories, and empirical software engineering. 
+I completed my Ph.D. at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research mainly focuses on software engineering, including AI4SE, SE4AI, mining software repositories, and empirical software engineering. 
 
 Education
 ======
@@ -29,7 +29,7 @@ Selected Publications
   * **[C6]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
-  <span style="color:red">**⭐ACM SIGSOFT Distinguished Paper Award**</span> \
+  <span style="color:red">**⭐ACM SIGSOFT Distinguished Paper Award.**</span> \
   [PDF](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
   * **[C5]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
   **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
@@ -104,7 +104,7 @@ Honors and Awards
 ======
 * **ACM SIGSOFT Distinguished Paper Award**, ICSE 2024
 * **Doctoral Research Scholarship**, Fonds de recherche du Québec – Nature et technologies (FRQNT)
-* **Excellent Certificate of Stars of Tomorrow Internship Program**, Microsoft Research Asia (MSRA)
+* **Certificate of Stars of Tomorrow Internship Program**, Microsoft Research Asia (MSRA)
 * **Leonard F. Ruggins Engineering PhD Scholarships**, Concordia University
 * **Centre for Machine Intelligence Graduate Scholarship**, Concordia University
 * **ACM SIGSOFT CAPS Award**, ACM SIGSOFT
