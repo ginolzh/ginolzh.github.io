@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenhao Li"
   avatar           : "images/profile.png"
-  bio              : "Ph.D. student at Concordia University."
+  bio              : "Ph.D. at Concordia University."
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
