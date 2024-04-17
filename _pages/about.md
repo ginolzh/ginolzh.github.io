@@ -86,7 +86,7 @@ Services and Experience
   * Research Paper: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers)
   * New Idea: [Internetware 2024](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
   * Artifact Evaluation: [ISSTA 2023](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation)
-  * Shadow Program Committee: [MSR 2021](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee)
+  * Junior Program Committee: [MSR 2021](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee)
   * Conference Co-reviewer: ASE 2023, ASE 2022, ICSE 2021, ICSE 2020, ICSME 2020, ICPE 2020, ICPC 2019, SANER 2019, ICSME 2018
 * **Internship Experience**
   * Huawei: Software Engineering Application Technology Lab
@@ -102,9 +102,9 @@ Services and Experience
 
 Honors and Awards
 ======
-* **ACM SIGSOFT Distinguished Paper Award**, ICSE 2024
-* **Doctoral Research Scholarship**, Fonds de recherche du Québec – Nature et technologies (FRQNT)
-* **Certificate of Stars of Tomorrow Internship Program**, Microsoft Research Asia (MSRA)
+* **ACM SIGSOFT Distinguished Paper Award**, The 46th International Conference on Software Engineering (**ICSE 2024**)
+* **Doctoral Research Scholarship**, Fonds de recherche du Québec – Nature et technologies (**FRQNT**)
+* **Certificate of Stars of Tomorrow Internship Program**, Microsoft Research Asia (**MSRA**)
 * **Leonard F. Ruggins Engineering PhD Scholarships**, Concordia University
 * **Centre for Machine Intelligence Graduate Scholarship**, Concordia University
 * **ACM SIGSOFT CAPS Award**, ACM SIGSOFT
