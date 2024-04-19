@@ -26,27 +26,36 @@ Education
 Selected Publications
 ======
 * **Conference Research Papers**
-  * **[C6]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
+  * **[C9]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
   <span style="color:red">**⭐ACM SIGSOFT Distinguished Paper Award.**</span> \
   [PDF](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
-  * **[C5]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
+  * **[C8]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
   **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).\
   [PDF](https://ginolzh.github.io/papers/ASE2023_Log_Message_Readability.pdf)
-  * **[C4]** <ins>*Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.*</ins>\
+  * **[C7]** <ins>*Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.*</ins>\
   **Zhenhao Li**, Chuan Luo\*, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin\*, Dongmei Zhang.\
   The 45th International Conference on Software Engineering (**ICSE 2023**).\
   [PDF](https://ginolzh.github.io/papers/ICSE2023_Log_Var_Aware_.pdf)
-  * **[C3]** <ins>*DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.*</ins>\
+  * **[C6]** <ins>*DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.*</ins>\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 43rd International Conference on Software Engineering (**ICSE 2021**).\
   [PDF](https://ginolzh.github.io/papers/ICSE2021_Log_Level.pdf)
-  * **[C2]** <ins>*Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
+  * **[C5]** <ins>*Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2020**).\
   [PDF](https://ginolzh.github.io/papers/ASE2020_Where_to_Log.pdf)
+  * **[C4]** <ins>*Towards Providing Automated Supports to Developers on Writing Logging Statements.*</ins>\
+  **Zhenhao Li**.\
+  The 42nd ACM/IEEE International Conference on Software Engineering, Doctoral Symposium (**ICSE-DS 2020**).
+  * **[C3]** <ins>*Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
+  **Zhenhao Li**.\
+  The 42nd ACM/IEEE International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2020**).
+  * **[C2]** <ins>*Characterizing and Detecting Duplicate Logging Code Smells.*</ins>\
+  **Zhenhao Li**.\
+  The 41st ACM/IEEE International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2019**).
   * **[C1]** <ins>*DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
   The 41st International Conference on Software Engineering (**ICSE 2019**).\
@@ -57,17 +66,6 @@ Selected Publications
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
   IEEE Transactions on Software Engineering, published in 2022 (**TSE 2022**).\
   [PDF](https://ginolzh.github.io/papers/TSE_Duplicate_Log.pdf)
-
-* **Other Publications**
-  * **[O3]** <ins>*Towards Providing Automated Supports to Developers on Writing Logging Statements.*</ins>\
-  **Zhenhao Li**.\
-  The 42nd ACM/IEEE International Conference on Software Engineering, Doctoral Symposium (**ICSE-DS 2020**).
-  * **[O2]** <ins>*Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
-  **Zhenhao Li**.\
-  The 42nd ACM/IEEE International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2020**).
-  * **[O1]** <ins>*Characterizing and Detecting Duplicate Logging Code Smells.*</ins>\
-  **Zhenhao Li**.\
-  The 41st ACM/IEEE International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2019**).
 
 
 
