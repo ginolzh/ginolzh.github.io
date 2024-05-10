@@ -78,10 +78,12 @@ _(*: corresponding authors)_
 Services and Experience
 ======
 * **Journal Reviewer**
+  * Transactions on Software Engineering (TSE)
   * Transactions on Software Engineering and Methodology (TOSEM)
   * Information and Software Technology (IST)
 * **Conference Program Committee**
   * Research Paper: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers)
+  * Software Engineering in Practice: [APSEC 2024](https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice)
   * New Idea: [Internetware 2024](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
   * Artifact Evaluation: [ISSTA 2023](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation)
   * Junior Program Committee: [MSR 2021](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee)
