@@ -15,12 +15,6 @@ About Me
 ======
 <span style="color:blue">**I will join the School of Information Technology at [York University](https://www.yorku.ca/) as an Assistant Professor at the end of 2024.**</span> I completed my Ph.D. at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research mainly focuses on software engineering, including AI4SE, SE4AI, mining software repositories, and empirical software engineering. 
 
-Education
-======
-* Ph.D. in Computer Science, Concordia University, 2022
-* M.A.Sc. in Software Engineering, Concordia University, 2019
-* B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
-
 <span class='anchor' id='publications'></span>
 
 Selected Publications
@@ -111,6 +105,12 @@ Honors and Awards
 * **Concordia International Tuition Award of Excellence**, Concordia University
 * **Concordia University Conference and Exposition Award**, Concordia University
 * **Concordia Merit Scholarship**, Concordia University
+
+Education
+======
+* Ph.D. in Computer Science, Concordia University, 2022
+* M.A.Sc. in Software Engineering, Concordia University, 2019
+* B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
 
 Other Information
 ======
