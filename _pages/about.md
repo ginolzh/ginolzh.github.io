@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-<span style="color:blue">**I will join the School of Information Technology at [York University](https://www.yorku.ca/) as an Assistant Professor in January, 2025.**</span> I completed my Ph.D. at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research mainly focuses on software engineering, including AI4SE, SE4AI, mining software repositories, and empirical software engineering. 
+<span style="color:blue">**I will join the School of Information Technology at [York University](https://www.yorku.ca/) as an Assistant Professor at the end of 2024.**</span> I completed my Ph.D. at [_Concordia University_](https://www.concordia.ca/) in 2022, under the supervision of [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (_Concordia University_) and [Dr. Weiyi (Ian) Shang](https://ece.uwaterloo.ca/~wshang/) (_University of Waterloo_). My research mainly focuses on software engineering, including AI4SE, SE4AI, mining software repositories, and empirical software engineering. 
 
 Education
 ======
