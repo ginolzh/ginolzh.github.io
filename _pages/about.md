@@ -26,11 +26,11 @@ Selected Publications
   <span style="color:red">**⭐ACM SIGSOFT Distinguished Paper Award.**</span> \
   [PDF](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
   * **[C8]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
-  **Zhenhao Li**, An Ran Chen, Xing Hu\*, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
+  **Zhenhao Li**, An Ran Chen, Xing Hu, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).\
   [PDF](https://ginolzh.github.io/papers/ASE2023_Log_Message_Readability.pdf)
   * **[C7]** <ins>*Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.*</ins>\
-  **Zhenhao Li**, Chuan Luo\*, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin\*, Dongmei Zhang.\
+  **Zhenhao Li**, Chuan Luo, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin, Dongmei Zhang.\
   The 45th International Conference on Software Engineering (**ICSE 2023**).\
   [PDF](https://ginolzh.github.io/papers/ICSE2023_Log_Var_Aware_.pdf)
   * **[C6]** <ins>*DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.*</ins>\
@@ -65,7 +65,6 @@ Selected Publications
 
 [Full List (Google Scholar)](https://scholar.google.com/citations?hl=zh-CN&user=StfHC9AAAAAJ)
 
-_(*: corresponding authors)_
 
 <span class='anchor' id='services'></span>
 
@@ -73,6 +72,7 @@ Services and Experience
 ======
 * **Journal Reviewer**
   * Transactions on Software Engineering (TSE)
+  * Transactions on Dependable and Secure Computing (TDSC)
   * Transactions on Software Engineering and Methodology (TOSEM)
   * Information and Software Technology (IST)
 * **Conference Program Committee**
