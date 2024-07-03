@@ -31,7 +31,7 @@ Selected Publications
   * **[C9]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
-  <span style="color:red">**🏅ACM SIGSOFT Distinguished Paper Award.**</span> \
+  <span style="color:#2273de">**🏅ACM SIGSOFT Distinguished Paper Award.**</span> \
   [PDF](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
   * **[C8]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
   **Zhenhao Li**, An Ran Chen, Xing Hu, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
