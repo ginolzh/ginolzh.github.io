@@ -31,7 +31,7 @@ Selected Publications
   * **[C9]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
-  <span style="color:red">**⭐ACM SIGSOFT Distinguished Paper Award.**</span> \
+  <span style="color:red">**🏅ACM SIGSOFT Distinguished Paper Award.**</span> \
   [PDF](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
   * **[C8]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
   **Zhenhao Li**, An Ran Chen, Xing Hu, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
@@ -86,7 +86,7 @@ Services and Experience
 * **Conference Program Committee**
   * 2025: [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier)
   * 2024: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers), [APSEC 2024 (SEIP)](https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice), [Internetware 2024 (New Idea)](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
-  * 2023 & Before: [ISSTA 2023 (Artifact)](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation), [MSR 2021 (Junior PC)](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee), Co-reviewer (ASE 2023, ASE 2022, ICSE 2021, etc.)
+  * ~2023: [ISSTA 2023 (Artifact)](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation), [MSR 2021 (Junior PC)](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee), Co-reviewer (ASE 2023, ASE 2022, ICSE 2021, etc.)
 * **Internship Experience**
   * Huawei: Software Engineering Application Technology Lab
   * Microsoft Research: Software Analytics Group
