@@ -23,7 +23,7 @@ Selected Publications
   * **[C11]** <ins>*Reasoning Runtime Behavior of a Program with LLM: How Far Are We?*</ins>\
   Junkai Chen, Zhiyuan Pan, Xing Hu, **Zhenhao Li**, Ge Li, Xin Xia.\
   The 47th International Conference on Software Engineering (**ICSE 2025**).\
-  [[PDF]](https://arxiv.org/pdf/2403.16437v2) [[REval-leaderboard]](https://r-eval.github.io/)
+  [[PDF (Preprint)]](https://arxiv.org/pdf/2403.16437v2) [[REval-Leaderboard]](https://r-eval.github.io/)
   * **[C10]** <ins>*ThinkRepair: Self-Directed Automated Program Repair.*</ins>\
   Xin Yin, Chao Ni, Shaohua Wang, **Zhenhao Li**, Limin Zeng, Xiaohu Yang.\
   The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2024**).\
@@ -84,7 +84,7 @@ Services and Experience
   * Transactions on Software Engineering and Methodology (TOSEM)
   * Information and Software Technology (IST)
 * **Conference Program Committee**
-  * 2025: [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier)
+  * 2025: [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier), [ICPE 2025](https://icpe.spec.org/)
   * 2024: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers), [APSEC 2024 (SEIP)](https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice), [Internetware 2024 (New Idea)](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
   * 2023&Before: [ISSTA 2023 (Artifact)](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation), [MSR 2021 (Junior PC)](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee), Co-reviewer (ASE 2023, ASE 2022, ICSE 2021, etc.)
 * **Internship Experience**
