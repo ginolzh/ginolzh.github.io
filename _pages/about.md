@@ -23,7 +23,7 @@ Selected Publications
   * **[C11]** <ins>*Reasoning Runtime Behavior of a Program with LLM: How Far Are We?*</ins>\
   Junkai Chen, Zhiyuan Pan, Xing Hu, **Zhenhao Li**, Ge Li, Xin Xia.\
   The 47th International Conference on Software Engineering (**ICSE 2025**).\
-  [PDF to appear]
+  [[PDF]](https://arxiv.org/pdf/2403.16437v2) [[REval-leaderboard]](https://r-eval.github.io/)
   * **[C10]** <ins>*ThinkRepair: Self-Directed Automated Program Repair.*</ins>\
   Xin Yin, Chao Ni, Shaohua Wang, **Zhenhao Li**, Limin Zeng, Xiaohu Yang.\
   The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2024**).\
@@ -32,23 +32,23 @@ Selected Publications
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
   <span style="color:#2273de">**🏅ACM SIGSOFT Distinguished Paper Award.**</span> \
-  [PDF](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
   * **[C8]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
   **Zhenhao Li**, An Ran Chen, Xing Hu, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 38th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2023**).\
-  [PDF](https://ginolzh.github.io/papers/ASE2023_Log_Message_Readability.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/ASE2023_Log_Message_Readability.pdf)
   * **[C7]** <ins>*Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.*</ins>\
   **Zhenhao Li**, Chuan Luo, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin, Dongmei Zhang.\
   The 45th International Conference on Software Engineering (**ICSE 2023**).\
-  [PDF](https://ginolzh.github.io/papers/ICSE2023_Log_Var_Aware_.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/ICSE2023_Log_Var_Aware_.pdf)
   * **[C6]** <ins>*DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.*</ins>\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 43rd International Conference on Software Engineering (**ICSE 2021**).\
-  [PDF](https://ginolzh.github.io/papers/ICSE2021_Log_Level.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/ICSE2021_Log_Level.pdf)
   * **[C5]** <ins>*Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Weiyi Shang.\
   The 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2020**).\
-  [PDF](https://ginolzh.github.io/papers/ASE2020_Where_to_Log.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/ASE2020_Where_to_Log.pdf)
   * **[C4]** <ins>*Towards Providing Automated Supports to Developers on Writing Logging Statements.*</ins>\
   **Zhenhao Li**.\
   The 42nd ACM/IEEE International Conference on Software Engineering, Doctoral Symposium (**ICSE-DS 2020**).
@@ -61,13 +61,13 @@ Selected Publications
   * **[C1]** <ins>*DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
   The 41st International Conference on Software Engineering (**ICSE 2019**).\
-  [PDF](https://ginolzh.github.io/papers/ICSE2019_Dup_Log.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/ICSE2019_Dup_Log.pdf)
 
 * **Journal**
   * **[J1]** <ins>*Studying Duplicate Logging Statements and Their Relationships with Code Clones.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
   IEEE Transactions on Software Engineering, published in 2022 (**TSE 2022**).\
-  [PDF](https://ginolzh.github.io/papers/TSE_Duplicate_Log.pdf)
+  [[PDF]](https://ginolzh.github.io/papers/TSE_Duplicate_Log.pdf)
 
 
 
