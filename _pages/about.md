@@ -19,6 +19,7 @@ About Me
 
 Selected Publications
 ======
++: Co-first authors, equally contributed
 * **Conference**
   * **[C11]** <ins>*Reasoning Runtime Behavior of a Program with LLM: How Far Are We?*</ins>\
   Junkai Chen, Zhiyuan Pan, Xing Hu, **Zhenhao Li**, Ge Li, Xin Xia.\
@@ -68,6 +69,12 @@ Selected Publications
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
   IEEE Transactions on Software Engineering, published in 2022 (**TSE 2022**).\
   [[PDF]](https://ginolzh.github.io/papers/TSE_Duplicate_Log.pdf)
+
+* **Preprint**
+  * **[P1]** <ins>*NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations.*</ins>\
+  Junkai Chen+, **Zhenhao Li+**, Xing Hu, Xin Xia.\
+  Arxiv 2406.19783, 2024.\
+  [[PDF]](https://arxiv.org/pdf/2406.19783)
 
 
 
