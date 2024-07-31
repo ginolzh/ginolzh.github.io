@@ -28,7 +28,7 @@ Selected Publications
   * **[C10]** <ins>*ThinkRepair: Self-Directed Automated Program Repair.*</ins>\
   Xin Yin, Chao Ni, Shaohua Wang, **Zhenhao Li**, Limin Zeng, Xiaohu Yang.\
   The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2024**).\
-  [PDF to appear]
+  [[PDF]](https://ginolzh.github.io/papers/ISSTA2024_Think_Repair.pdf)
   * **[C9]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
   The 46th International Conference on Software Engineering (**ICSE 2024**).\
