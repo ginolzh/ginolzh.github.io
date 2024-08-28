@@ -90,6 +90,7 @@ Services and Experience
   * Transactions on Dependable and Secure Computing (TDSC)
   * Transactions on Software Engineering and Methodology (TOSEM)
   * Information and Software Technology (IST)
+  * Software: Practice and Experience (SPE)
 * **Conference Organizing and Program Committee**
   * 2025: [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier), [ICPE 2025 (Registration Chair & PC)](https://icpe2025.spec.org/), [SANER 2025](https://conf.researchr.org/track/saner-2025/saner-2025-papers)
   * 2024: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers), [APSEC 2024 (SEIP)](https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice), [Internetware 2024 (New Idea)](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
