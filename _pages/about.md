@@ -87,12 +87,12 @@ Services and Experience
 ======
 * **Journal Reviewer**
   * Transactions on Software Engineering (TSE)
-  * Transactions on Dependable and Secure Computing (TDSC)
   * Transactions on Software Engineering and Methodology (TOSEM)
+  * Transactions on Dependable and Secure Computing (TDSC)
   * Information and Software Technology (IST)
   * Software: Practice and Experience (SPE)
 * **Conference Organizing and Program Committee**
-  * 2025: [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier), [ICPE 2025 (Registration Chair & PC)](https://icpe2025.spec.org/), [SANER 2025](https://conf.researchr.org/track/saner-2025/saner-2025-papers)
+  * 2025: [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier), [ICPE 2025 (Registration Chair & PC)](https://icpe2025.spec.org/), [SANER 2025](https://conf.researchr.org/track/saner-2025/saner-2025-papers), [MSR 2025 (Data/Tool Showcase)](https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track)
   * 2024: [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers), [APSEC 2024 (SEIP)](https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice), [Internetware 2024 (New Idea)](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
   * 2023&Before: [ISSTA 2023 (Artifact)](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation), [MSR 2021 (Junior PC)](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee), Co-reviewer (ASE 2023, ASE 2022, ICSE 2021, etc.)
 * **Internship Experience**
