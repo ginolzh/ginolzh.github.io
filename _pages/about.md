@@ -24,7 +24,7 @@ Selected Publications
   * **[C11]** <ins>*Reasoning Runtime Behavior of a Program with LLM: How Far Are We?*</ins>\
   Junkai Chen, Zhiyuan Pan, Xing Hu, **Zhenhao Li**, Ge Li, Xin Xia.\
   The 47th International Conference on Software Engineering (**ICSE 2025**).\
-  [[PDF (Preprint)]](https://arxiv.org/pdf/2403.16437v2) [[REval-Leaderboard]](https://r-eval.github.io/)
+  [[PDF]](https://ginolzh.github.io/papers/ICSE2025_Reasoning_LLM.pdf) [[REval-Leaderboard]](https://r-eval.github.io/)
   * **[C10]** <ins>*ThinkRepair: Self-Directed Automated Program Repair.*</ins>\
   Xin Yin, Chao Ni, Shaohua Wang, **Zhenhao Li**, Limin Zeng, Xiaohu Yang.\
   The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2024**).\
