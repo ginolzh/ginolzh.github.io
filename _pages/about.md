@@ -26,7 +26,7 @@ Selected Publications
   The 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST 2025**).
   * **[C11]** <ins>*Reasoning Runtime Behavior of a Program with LLM: How Far Are We?*</ins>\
   Junkai Chen, Zhiyuan Pan, Xing Hu, **Zhenhao Li**, Ge Li, Xin Xia.\
-  The 47th ACM/IEEE International Conference on Software Engineering (**ICSE 2025**).\
+  The 47th IEEE/ACM International Conference on Software Engineering (**ICSE 2025**).\
   [[PDF]](https://ginolzh.github.io/papers/ICSE2025_Reasoning_LLM.pdf) [[REval-Leaderboard]](https://r-eval.github.io/)
   * **[C10]** <ins>*ThinkRepair: Self-Directed Automated Program Repair.*</ins>\
   Xin Yin, Chao Ni, Shaohua Wang, **Zhenhao Li**, Limin Zeng, Xiaohu Yang.\
@@ -34,7 +34,7 @@ Selected Publications
   [[PDF]](https://ginolzh.github.io/papers/ISSTA2024_Think_Repair.pdf)
   * **[C9]** <ins>*Code Search is All You Need? Improving Code Suggestions with Code Search.*</ins>\
   Junkai Chen, Xing Hu, **Zhenhao Li**, Cuiyun Gao, Xin Xia, David Lo.\
-  The 46th ACM/IEEE International Conference on Software Engineering (**ICSE 2024**).\
+  The 46th IEEE/ACM International Conference on Software Engineering (**ICSE 2024**).\
   <span style="color:#2273de">**🏅ACM SIGSOFT Distinguished Paper Award.**</span> \
   [[PDF]](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
   * **[C8]** <ins>*Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages.*</ins>\
@@ -43,11 +43,11 @@ Selected Publications
   [[PDF]](https://ginolzh.github.io/papers/ASE2023_Log_Message_Readability.pdf)
   * **[C7]** <ins>*Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.*</ins>\
   **Zhenhao Li**, Chuan Luo, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin, Dongmei Zhang.\
-  The 45th ACM/IEEE International Conference on Software Engineering (**ICSE 2023**).\
+  The 45th IEEE/ACM International Conference on Software Engineering (**ICSE 2023**).\
   [[PDF]](https://ginolzh.github.io/papers/ICSE2023_Log_Var_Aware_.pdf)
   * **[C6]** <ins>*DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks.*</ins>\
   **Zhenhao Li**, Heng Li, Tse-Hsun (Peter) Chen, Weiyi Shang.\
-  The 43rd ACM/IEEE International Conference on Software Engineering (**ICSE 2021**).\
+  The 43rd IEEE/ACM International Conference on Software Engineering (**ICSE 2021**).\
   [[PDF]](https://ginolzh.github.io/papers/ICSE2021_Log_Level.pdf)
   * **[C5]** <ins>*Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Weiyi Shang.\
@@ -55,16 +55,16 @@ Selected Publications
   [[PDF]](https://ginolzh.github.io/papers/ASE2020_Where_to_Log.pdf)
   * **[C4]** <ins>*Towards Providing Automated Supports to Developers on Writing Logging Statements.*</ins>\
   **Zhenhao Li**.\
-  The 42nd ACM/IEEE International Conference on Software Engineering, Doctoral Symposium (**ICSE-DS 2020**).
+  The 42nd IEEE/ACM International Conference on Software Engineering, Doctoral Symposium (**ICSE-DS 2020**).
   * **[C3]** <ins>*Studying and Suggesting Logging Locations in Code Blocks.*</ins>\
   **Zhenhao Li**.\
-  The 42nd ACM/IEEE International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2020**).
+  The 42nd IEEE/ACM International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2020**).
   * **[C2]** <ins>*Characterizing and Detecting Duplicate Logging Code Smells.*</ins>\
   **Zhenhao Li**.\
-  The 41st ACM/IEEE International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2019**).
+  The 41st IEEE/ACM International Conference on Software Engineering, Student Research Competition (**ICSE-SRC 2019**).
   * **[C1]** <ins>*DLFinder: Characterizing and Detecting Duplicate Logging Code Smells.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
-  The 41st ACM/IEEE International Conference on Software Engineering (**ICSE 2019**).\
+  The 41st IEEE/ACM International Conference on Software Engineering (**ICSE 2019**).\
   [[PDF]](https://ginolzh.github.io/papers/ICSE2019_Dup_Log.pdf)
 
 * **Journal**
