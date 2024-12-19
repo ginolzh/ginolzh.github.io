@@ -89,10 +89,12 @@ Selected Publications
 Services and Experience
 ======
 * **Conference Organizing and Program Committee**
-  * **2025:** [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier), [ICPE 2025 (Registration Chair & PC)](https://icpe2025.spec.org/), [SANER 2025](https://conf.researchr.org/track/saner-2025/saner-2025-papers), \
-     [FORGE 2025](https://conf.researchr.org/track/forge-2025/forge-2025-papers#Call-for-Papers), [MSR 2025 (Data/Tool Showcase)](https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track), [AIOps 2025](https://cloudintelligenceworkshop.org/CFP.html), [LTB (Organizing) 2025](https://ltb2025.github.io/), [COMPSAC (SETA) 2025](https://ieeecompsac.computer.org/2025/seta/)
+  * **2025:**
+    * [ICSE 2025 (NIER)](https://conf.researchr.org/track/icse-2025/icse-2025-nier), [SANER 2025](https://conf.researchr.org/track/saner-2025/saner-2025-papers), [ICPE 2025 (Registration Chair & PC)](https://icpe2025.spec.org/),  
+    * [FORGE 2025](https://conf.researchr.org/track/forge-2025/forge-2025-papers#Call-for-Papers), [MSR 2025 (Data/Tool Showcase)](https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track), [AIOps 2025](https://cloudintelligenceworkshop.org/CFP.html), 
+    * [LTB 2025 (Organizing)](https://ltb2025.github.io/), [COMPSAC (SETA) 2025](https://ieeecompsac.computer.org/2025/seta/)
   * **2024:** [FORGE 2024](https://conf.researchr.org/track/forge-2024/forge-2024-papers), [APSEC 2024 (SEIP)](https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice), [Internetware 2024 (New Idea)](https://conf.researchr.org/track/internetware-2024/internetware-2024-new-idea-track) 
-  * **≤2023:** [ISSTA 2023 (Artifact)](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation), [MSR 2021 (Junior PC)](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee), Co-reviewer (ASE 2023, ASE 2022, ICSE 2021, etc.)
+  * **≤2023:** [ISSTA 2023 (Artifact)](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation), [MSR 2021 (Junior PC)](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee), Sub-reviewer (ASE 2023, ASE 2022, ICSE 2021, etc.)
 * **Journal Reviewer**
   * Transactions on Software Engineering (TSE)
   * Transactions on Software Engineering and Methodology (TOSEM)
@@ -116,7 +118,6 @@ Honors and Awards
 ======
 * **ACM SIGSOFT Distinguished Paper Award**, The 46th International Conference on Software Engineering (**ICSE 2024**)
 * **Doctoral Research Scholarship**, Fonds de recherche du Québec – Nature et technologies (**FRQNT**)
-* **Certificate of Stars of Tomorrow Internship Program**, Microsoft Research Asia (**MSRA**)
 * **Leonard F. Ruggins Engineering PhD Scholarships**, Concordia University
 * **Centre for Machine Intelligence Graduate Scholarship**, Concordia University
 * **ACM SIGSOFT CAPS Award**, ACM SIGSOFT
