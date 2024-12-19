@@ -102,16 +102,22 @@ Services and Experience
   * Automated Software Engineering (ASE)
   * Information and Software Technology (IST)
   * Software: Practice and Experience (SPE)
-* **Teaching Assistant**
-  * SOEN 341: Software Process (2021, 2020, 2019, 2018)
-  * SOEN 342: Software Requirement (2018)
-  * SOEN 345: Software Testing, Verification and Quality Assurance (2020)
-  * SOEN 7481: Software Verification and Testing (2020, 2019)
 * **Internship Experience**
   * Huawei: Software Engineering Application Technology Lab
   * Microsoft Research: Software Analytics Group
 * **Volunteering**
   * Student Volunteer: ICSE 2020
+
+
+Teaching
+======
+* **Course Instructor**
+  * ITEC 1010: Information and Organizations (2025)
+* **Teaching Assistant**
+  * SOEN 341: Software Process (2021, 2020, 2019, 2018)
+  * SOEN 342: Software Requirement (2018)
+  * SOEN 345: Software Testing, Verification and Quality Assurance (2020)
+  * SOEN 7481: Software Verification and Testing (2020, 2019)
   
 
 Honors and Awards
