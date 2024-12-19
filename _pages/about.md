@@ -109,17 +109,6 @@ Services and Experience
   * Student Volunteer: ICSE 2020
 
 
-Teaching
-======
-* **Course Instructor**
-  * ITEC 1010: Information and Organizations (2025)
-* **Teaching Assistant**
-  * SOEN 341: Software Process (2021, 2020, 2019, 2018)
-  * SOEN 342: Software Requirement (2018)
-  * SOEN 345: Software Testing, Verification and Quality Assurance (2020)
-  * SOEN 7481: Software Verification and Testing (2020, 2019)
-  
-
 Honors and Awards
 ======
 * **ACM SIGSOFT Distinguished Paper Award**, The 46th International Conference on Software Engineering (**ICSE 2024**)
@@ -131,11 +120,26 @@ Honors and Awards
 * **Concordia University Conference and Exposition Award**, Concordia University
 * **Concordia Merit Scholarship**, Concordia University
 
+
+
+Teaching
+======
+* **Course Instructor**
+  * ITEC 1010: Information and Organizations (2025)
+* **Teaching Assistant**
+  * SOEN 341: Software Process (2021, 2020, 2019, 2018)
+  * SOEN 342: Software Requirement (2018)
+  * SOEN 345: Software Testing, Verification and Quality Assurance (2020)
+  * SOEN 7481: Software Verification and Testing (2020, 2019)
+  
+
+
 Education
 ======
 * Ph.D. in Computer Science, Concordia University, 2022
 * M.A.Sc. in Software Engineering, Concordia University, 2019
 * B.Eng. in Software Engineering, Harbin Institute of Technology, 2017
+
 
 Other Information
 ======
