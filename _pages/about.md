@@ -68,9 +68,12 @@ Selected Publications
   [[PDF]](https://ginolzh.github.io/papers/ICSE2019_Dup_Log.pdf)
 
 * **Journal**
+  * **[J2]** <ins>*An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities.*</ins>\
+  Zezhou Yang, Sirong Chen, Cuiyun Gao, **Zhenhao Li**, Xing Hu, Kui Liu, Xin Xia.\
+  ACM Transactions in Software Engineering and Methodology (**TOSEM**), accepted in 2025.
   * **[J1]** <ins>*Studying Duplicate Logging Statements and Their Relationships with Code Clones.*</ins>\
   **Zhenhao Li**, Tse-Hsun (Peter) Chen, Jinqiu Yang, Weiyi Shang.\
-  IEEE Transactions on Software Engineering, published in 2022 (**TSE 2022**).\
+  IEEE Transactions on Software Engineering (**TSE**), published in 2022.\
   [[PDF]](https://ginolzh.github.io/papers/TSE_Duplicate_Log.pdf)
 
 * **Preprint**
